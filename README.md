@@ -1,4 +1,4 @@
-# RNN-LSTM-with-cross-validation-for-Bitcoin-Price-Prediction2
+# RNN-LSTM-with-cross-validation-for-Bitcoin-Price-Prediction
 
 Python code
 
